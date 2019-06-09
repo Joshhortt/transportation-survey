@@ -1,0 +1,28 @@
+body {
+  font-size: 1.2em;
+  background-color: rgb(86, 61, 124);
+  padding: 8px;
+  margin: 8px;
+  font-family: 'Work Sans', sans-serif;
+  color: rgb(233, 236, 239);
+}
+
+h2 {
+  color: rgb(74, 74, 74);
+}
+
+#work-responses {
+  display: none;
+}
+
+#fun-responses {
+  display: none;
+}
+
+#survey  {
+  font-size: 1rem;
+}
+
+#blue-dot  {
+  color: rgb(86, 61, 124);
+}
